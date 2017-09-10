@@ -1,0 +1,25 @@
+nav ul {
+  margin: 0;
+  padding: 6px;
+  list-style: none; }
+
+nav li {
+  display: inline-block; }
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+p,
+h2,
+h3 {
+  padding: 6px;
+  color: #ff0000;
+  font-family: arial;
+  background-color: green; }
+
+h1 {
+  color: #ff0000;
+  padding: 6px;
+  font-family: arial; }

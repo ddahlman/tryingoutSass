@@ -1,0 +1,10 @@
+$header-color: purple;
+$fontish: arial;
+h2 {
+    color: $header-color;
+}
+
+h1 {
+    color: $header-color;
+    font-family: $fontish;
+}

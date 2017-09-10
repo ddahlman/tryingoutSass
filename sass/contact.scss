@@ -1,0 +1,19 @@
+$colors: yellow;
+$paddings: 20px;
+$margins: 20px;
+$backgrounds: green;
+h1 {
+    color: $colors;
+    padding: $paddings;
+    margin: $margins;
+    background-color: $backgrounds;
+}
+
+p {
+    color: $colors;
+    background-color: $backgrounds;
+}
+
+h3 {
+    color: $colors;
+}
